@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lkdeveloper2
-- 👀 I’m interested in coding, projects and AI
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in building websites, tools
+- 🌱 I’m currently web development
